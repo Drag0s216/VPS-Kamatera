@@ -39,7 +39,6 @@ The VPS's network speed was too slow to comfortably run everything I wanted on i
 Tech Stack
 
 Ubuntu LTS 24
-WireGuard, OpenVPN
 Nextcloud
 UFW
 WireGuard, OpenVPN
